@@ -1,6 +1,50 @@
 [
   {
     "_id": "667995a1c897ebfd00eb2395",
-    "name": "Samsung 990 PRO SSD 1TB PCIe 4.0 M.2"
+    "name": "Samsung 990 PRO SSD 1TB PCIe 4.0 M.2",
+    "price": 5000,
+    "quantity": 9,
+    "photo": "https://lh3.googleusercontent.com/d/1A2UtPkEUzdD2YaOs1o2nJmPFLErtzrYB",
+    "description": "HUGE SPEED BOOST: Get random read/write speeds that are 40%/55% faster than 980 PRO; Experience up to 1400K/1550K IOPS, while sequential read/write speeds up to 7,450/6,900 MB/s reach near the max performance of PCIe 4.0",
+    "images": [
+      "https://lh3.googleusercontent.com/d/1r_HPC_x09KYADXKCz0hG3Ac877n8M8bo",
+      "https://lh3.googleusercontent.com/d/1PgwB3gKGPLI6qTf5AHorLvDHa1V6SDDa",
+      "https://lh3.googleusercontent.com/d/1wkuzMNaHU1PUra7TouUAa6EAyn_LcwU8",
+      "https://lh3.googleusercontent.com/d/1rybfWpPXKUWYnX6rMBsm7qL_TbCUFHGC",
+      "https://lh3.googleusercontent.com/d/1bKIeagMwZNZpnUX4wDiRTMAXReSmBRar",
+      "https://lh3.googleusercontent.com/d/1u4LwV-TPdT1C-YiwE6SphcpKwIyCKIU5"
+    ],
+    "fullDescription": [
+      "BREAKTHROUGH POWER EFFICIENCY: Use less power and get more performance",
+      " Enjoy up to 50% improved performance per watt over 980 PRO, plus optimal power efficiency with max PCIe 4.0 performance",
+      "SMART THERMAL CONTROL: Samsung's own nickel-coated controller delivers effective thermal control",
+      " With its slim size, 990 PRO is a perfect fit for desktops and laptops that meet the PCI-SIG D8 standard",
+      "THE CHAMPION MAKER: Up to 65% improvement in random performance enables faster loads for an ultimate gaming experience on PS5 and DirectStorage PC games",
+      "SAMSUNG MAGICIAN SOFTWARE: Get the most out of your SSD with Samsung Magician's advanced yet intuitive optimization tools",
+      " Monitor drive health, protect valuable data, and receive important updates for your 990 PRO"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "667998c1c897ebfd00eb2398",
+    "name": "Samsung Galaxy S24 Ultra 5G Titanium Gray, 12GB, 256GB Storage",
+    "price": 135997,
+    "quantity": 9,
+    "photo": "https://lh3.googleusercontent.com/d/1tgzxaGvchBM05ogs-F8hqq4SXEhayoPg",
+    "description": "Meet Galaxy S24 Ultra, the ultimate form of Galaxy Ultra with a new titanium exterior and a 17.25cm (6.8 inch) flat display It's an absolute marvel of design",
+    "images": [
+      "https://lh3.googleusercontent.com/d/1pJoNfu2wO_Sw03Uc1Sxi_T6bNQLacwO8",
+      "https://lh3.googleusercontent.com/d/1F_ANcYwSQiDEnZMxmuzIXKsSE8hjSSCs",
+      "https://lh3.googleusercontent.com/d/1-GCjqJ3J1hnDL52IcigOHRAKzNAfnfSQ",
+      "https://lh3.googleusercontent.com/d/1-dPy3OSKK95rNOm19SIx2J921L_bCdm8",
+      "https://lh3.googleusercontent.com/d/1EhJ9VJZXwAmb1S9AKUryLQssmC7ikCBN"
+    ],
+    "fullDescription": [
+      "The legacy of Galaxy Note is alive and well. Write, tap and navigate with precision your fingers wish they had on the new, flat display",
+      "With the most megapixels on a smartphone and AI processing, Galaxy S24 Ultra sets the industry standard for image quality every time you hit the shutter. What's more, the new ProVisual engine recognizes objects — improving colour tone, reducing noise and bringing out detail",
+      "A new way to search is here with Circle to Search. While scrolling your fav social network, use your S Pen or finger to circle something and get Google Search results",
+      "Victory can be yours with the new Snapdragon 8 Gen 3 for Galaxy. Faster processing gives you the power you need for all the gameplay you want. Then, manifest graphic effects in real time with ray tracing for hyper-realistic shadows and reflections"
+    ],
+    "__v": 0
   }
 ]
